@@ -42,6 +42,8 @@ module.exports = {
     'no-param-reassign': 0,
     'react/react-in-jsx-scope': 0,
     'react/jsx-props-no-spreading': 0,
+    'react/jsx-indent': ['error', 4],
+    'react/jsx-indent-props': ['error', 4],
     'no-sparse-arrays': 0,
     'no-array-index-key': 0,
     camelcase: 0,
